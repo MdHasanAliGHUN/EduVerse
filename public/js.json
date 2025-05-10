@@ -1,0 +1,37 @@
+{
+  "id": "1",
+  "type": "JavaScript",
+  "popularity": true,
+  "courseTitle": "Modern Frontend Development with JavaScript",
+  "courseLevel": "Intermediate",
+  "durationHours": 35,
+  "instructor": "Alex Carter",
+  "description": "Boost your JavaScript skills with hands-on projects and intermediate concepts for modern web development.",
+  "aboutCourse": "This course focuses on strengthening your core JavaScript knowledge through real-world coding exercises, covering DOM manipulation, ES6+ features, async programming, and basic debugging techniques.",
+  "whatYouWillLearn": [
+    "Deep understanding of ES6+ JavaScript features",
+    "DOM manipulation and event handling",
+    "Working with asynchronous code using Promises and async/await",
+    "JavaScript debugging and developer tools"
+  ],
+  "requirements": [
+    "Basic understanding of JavaScript syntax",
+    "Familiarity with HTML and CSS"
+  ],
+  "targetAudience": [
+    "JavaScript learners looking to move beyond the basics",
+    "Developers aiming to sharpen their frontend JavaScript skills"
+  ],
+  "features": {
+    "lifetimeAccess": true,
+    "previewAvailable": true
+  },
+  "pricing": {
+    "regularPrice": 99.99,
+    "discountedPrice": 74.99,
+    "moneyBackGuaranteeDays": 30
+  },
+  "image": {
+    "thumbnailUrl": "https://i.ibb.co.com/84mXHzrb/download.png"
+  }
+}

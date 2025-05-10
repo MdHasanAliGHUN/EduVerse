@@ -1,0 +1,611 @@
+[
+  {
+    "id": "1",
+    "type": "JavaScript",
+    "popularity": true,
+    "courseTitle": "Modern Frontend Development with JavaScript",
+    "courseLevel": "Intermediate",
+    "durationHours": 35,
+    "instructor": "Alex Carter",
+    "description": "Boost your JavaScript skills with hands-on projects and intermediate concepts for modern web development.",
+    "aboutCourse": "This course focuses on strengthening your core JavaScript knowledge through real-world coding exercises, covering DOM manipulation, ES6+ features, async programming, and basic debugging techniques.",
+    "whatYouWillLearn": [
+      "Deep understanding of ES6+ JavaScript features",
+      "DOM manipulation and event handling",
+      "Working with asynchronous code using Promises and async/await",
+      "JavaScript debugging and developer tools"
+    ],
+    "requirements": [
+      "Basic understanding of JavaScript syntax",
+      "Familiarity with HTML and CSS"
+    ],
+    "targetAudience": [
+      "JavaScript learners looking to move beyond the basics",
+      "Developers aiming to sharpen their frontend JavaScript skills"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 99.99,
+      "discountedPrice": 74.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/84mXHzrb/download.png"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "2",
+    "popularity": false,
+    "type": "backend",
+    "courseTitle": "Mastering Backend with Node.js and Express",
+    "courseLevel": "Intermediate",
+    "durationHours": 30,
+    "instructor": "Michael Lee",
+    "description": "Strengthen your backend development skills with practical Node.js and Express.js projects and real-world API building.",
+    "aboutCourse": "In this intermediate-level course, you'll gain hands-on experience building robust and scalable backend applications. You'll learn REST API design, Express routing, error handling, and middleware integration, plus how to organize code for large applications.",
+    "whatYouWillLearn": [
+      "Create RESTful APIs using Express.js and Node.js",
+      "Handle asynchronous tasks using async/await and Promises",
+      "Use middleware for routing and request validation",
+      "Design scalable and modular backend architecture"
+    ],
+    "requirements": [
+      "Basic understanding of JavaScript and Node.js",
+      "Familiarity with REST concepts and HTTP methods"
+    ],
+    "targetAudience": [
+      "JavaScript developers ready to dive into backend development",
+      "Frontend developers who want to become full-stack",
+      "Anyone aiming to build production-ready backend APIs"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 79.99,
+      "discountedPrice": 54.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/GQMbtDp7/nubelson-fernandes-Bv2-FCJoh8-XM-unsplash.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "3",
+    "popularity": true,
+    "type": "full-stack",
+    "courseTitle": "Full-Stack Developer Bootcamp Awesome",
+    "courseLevel": "Beginner to Advanced",
+    "durationHours": 50,
+    "instructor": "Jessica Lin",
+    "description": "Learn full-stack web development from scratch — covering everything from frontend design to backend logic and deployment.",
+    "aboutCourse": "This beginner-to-advanced course offers a complete roadmap to becoming a full-stack developer. You'll start with HTML, CSS, and JavaScript, move on to React for frontend, then dive into Node.js, Express, and MongoDB for backend development. The course includes real-world projects and covers deployment techniques, API security, and version control with Git.",
+    "whatYouWillLearn": [
+      "Design responsive interfaces using HTML, CSS, and React",
+      "Develop RESTful APIs using Node.js and Express",
+      "Integrate MongoDB for database management",
+      "Add user authentication using JWT",
+      "Deploy full-stack apps using platforms like Vercel and Render",
+      "Manage code with Git and GitHub"
+    ],
+    "requirements": [
+      "Willingness to learn and practice coding",
+      "A computer with internet connection",
+      "No prior programming experience needed"
+    ],
+    "targetAudience": [
+      "Complete beginners interested in web development",
+      "Anyone looking to become a full-stack developer",
+      "Frontend or backend developers aiming to expand their skillset"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 100.99,
+      "discountedPrice": 90.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/rRTxCvZJ/jefferson-santos-9-So-Cny-Qmkz-I-unsplash.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "4",
+    "type": "mongodb",
+    "popularity": true,
+    "courseTitle": "MongoDB for NoSQL Database Beginners",
+    "courseLevel": "Beginner",
+    "durationHours": 20,
+    "instructor": "Emily Zhang",
+    "description": "Get started with MongoDB and build powerful NoSQL databases from scratch.",
+    "aboutCourse": "This beginner-level course is your gateway to MongoDB, one of the most popular NoSQL databases. Learn how to set it up, understand the document model, perform CRUD operations, and connect it to Node.js via Mongoose. You will build scalable and flexible database solutions.",
+    "whatYouWillLearn": [
+      "Understand MongoDB’s document model",
+      "Perform CRUD operations and write queries",
+      "Connect MongoDB with Node.js using Mongoose",
+      "Design data schemas and relationships",
+      "Optimize performance with aggregation pipelines"
+    ],
+    "requirements": [
+      "Basic JavaScript knowledge",
+      "No prior database experience required",
+      "Computer with Node.js and MongoDB installed"
+    ],
+    "targetAudience": [
+      "Beginners eager to learn MongoDB",
+      "Web developers interested in NoSQL databases",
+      "Backend and full-stack developers using Node.js"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 109.99,
+      "discountedPrice": 94.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/HTYWSGCc/images.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "5",
+    "type": "JavaScript",
+    "popularity": true,
+    "courseTitle": "Mastering JavaScript for Backend Development",
+    "courseLevel": "Beginner",
+    "durationHours": 15,
+    "instructor": "David Park",
+    "description": "Learn JavaScript fundamentals and how to build backend applications using Node.js. Perfect for beginners.",
+    "aboutCourse": "This course will teach you the core JavaScript concepts, asynchronous programming, and how to use Node.js for backend development. Great for those wanting to enter the world of backend programming.",
+    "whatYouWillLearn": [
+      "Master JavaScript fundamentals for backend development",
+      "Learn about Node.js core modules (fs, http, path)",
+      "Understand asynchronous programming and the event loop",
+      "Build simple backend applications using Node.js"
+    ],
+    "requirements": [
+      "Basic JavaScript knowledge is required",
+      "VSCode and Node.js installed"
+    ],
+    "targetAudience": [
+      "Frontend developers transitioning to backend development",
+      "Beginners interested in learning backend programming with JavaScript"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 120.99,
+      "discountedPrice": 100.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/0R0KKgYn/download.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "6",
+    "popularity": true,
+    "type": "react",
+    "courseTitle": "Advanced React Patterns for Developers",
+    "courseLevel": "Intermediate",
+    "durationHours": 25,
+    "instructor": "Samantha Green",
+    "description": "Enhance your React skills with advanced patterns and performance optimization.",
+    "aboutCourse": "Master compound components, render props, context API, memoization, and learn how to optimize large-scale React applications.",
+    "whatYouWillLearn": [
+      "Master compound component pattern",
+      "Implement render props and higher-order components",
+      "Optimize React app performance",
+      "Understand advanced hooks and context API"
+    ],
+    "requirements": [
+      "Strong knowledge of React",
+      "Previous experience with React projects"
+    ],
+    "targetAudience": [
+      "React developers with experience",
+      "Frontend developers building scalable React apps"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 55.99,
+      "discountedPrice": 45.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/WpHYyH92/images.png"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "7",
+    "popularity": true,
+    "type": "react",
+    "courseTitle": "Mastering Advanced React Patterns for Developers",
+    "courseLevel": "Advanced",
+    "durationHours": 25,
+    "instructor": "Samantha Green",
+    "description": "Take your React skills to the next level with advanced patterns and performance tips.",
+    "aboutCourse": "Explore compound components, render props, context API, memoization, and performance optimization for large-scale React apps.",
+    "whatYouWillLearn": [
+      "Compound component pattern",
+      "Render props and HOCs",
+      "Performance optimization",
+      "Advanced hooks and context API"
+    ],
+    "requirements": ["Strong knowledge of React", "Projects built with React"],
+    "targetAudience": [
+      "Experienced React developers",
+      "Frontend devs building scalable React apps"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 55.99,
+      "discountedPrice": 45.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/ksDdhp0s/download-1.png"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "8",
+    "type": "Express.js",
+    "popularity": true,
+    "courseTitle": "Mastering Express.js for Full-Stack Development",
+    "courseLevel": "Beginner to Advanced",
+    "durationHours": 20,
+    "instructor": "Emily Zhang",
+    "description": "Learn how to build scalable backend applications using Express.js and integrate them with MongoDB.",
+    "aboutCourse": "This course teaches you the fundamentals of Express.js, routing, middleware, and integrating MongoDB for full-stack applications. Ideal for developers looking to enhance backend skills.",
+    "whatYouWillLearn": [
+      "Setting up Express.js servers",
+      "Creating RESTful APIs with Express.js",
+      "Middleware and routing in Express.js",
+      "Integration with MongoDB using Mongoose"
+    ],
+    "requirements": [
+      "Basic JavaScript knowledge",
+      "Familiarity with databases is a plus"
+    ],
+    "targetAudience": [
+      "Developers interested in backend development",
+      "Anyone looking to integrate MongoDB with Express.js"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 109.99,
+      "discountedPrice": 94.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/Fk1f2Xc9/download-2.png"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "9",
+    "type": "Next.js",
+    "popularity": true,
+    "courseTitle": "Next.js: The React Framework for Beginners",
+    "courseLevel": "Beginner",
+    "durationHours": 30,
+    "instructor": "David Brown",
+    "description": "Master Next.js, the popular React framework for building production-ready applications.",
+    "aboutCourse": "In this course, you will learn how to create scalable web applications using Next.js, focusing on server-side rendering, static site generation, and API routes.",
+    "whatYouWillLearn": [
+      "Building static and dynamic pages with Next.js",
+      "Server-side rendering and static site generation",
+      "Creating and using API routes in Next.js",
+      "Deploying Next.js apps to Vercel"
+    ],
+    "requirements": ["Basic React knowledge", "Familiarity with HTML/CSS"],
+    "targetAudience": [
+      "React developers transitioning to Next.js",
+      "Anyone interested in creating production-level React applications"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 129.99,
+      "discountedPrice": 99.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/sd8Q1B6N/download-1.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "10",
+    "type": "Tailwind CSS",
+    "popularity": true,
+    "courseTitle": "Mastering Tailwind CSS: Fantastic Design Skills",
+    "courseLevel": "Intermediate",
+    "durationHours": 20,
+    "instructor": "Sophia White",
+    "description": "Learn how to create beautiful, responsive web designs with Tailwind CSS.",
+    "aboutCourse": "This course will teach you how to design web applications with Tailwind CSS, focusing on utility-first design principles and building custom themes.",
+    "whatYouWillLearn": [
+      "Understanding Tailwind's utility-first approach",
+      "Creating responsive designs",
+      "Building custom themes and layouts",
+      "Integrating Tailwind with React"
+    ],
+    "requirements": [
+      "Basic HTML/CSS knowledge",
+      "Experience with React (optional)"
+    ],
+    "targetAudience": [
+      "Developers looking to improve design skills",
+      "Frontend developers who want to adopt Tailwind CSS"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 79.99,
+      "discountedPrice": 59.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/8nb5Rxkx/download-2.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "11",
+    "type": "Express.js",
+    "popularity": true,
+    "courseTitle": "Building Full-Stack Applications With Express.JS",
+    "courseLevel": "Beginner",
+    "durationHours": 40,
+    "instructor": "Olivia Johnson",
+    "description": "Master building full-stack applications with Express.js and Next.js API integration.",
+    "aboutCourse": "This course teaches how to build full-stack applications using Express.js, covering backend APIs, authentication, and deployment methods.",
+    "whatYouWillLearn": [
+      "Develop full-stack applications with Express.js",
+      "Create and manage backend APIs",
+      "Implement user authentication",
+      "Deploy apps to Vercel and custom servers"
+    ],
+    "requirements": [
+      "Experience with React and JavaScript",
+      "Basic understanding of backend development"
+    ],
+    "targetAudience": [
+      "React developers looking to extend to full-stack",
+      "Developers eager to learn backend API development"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 149.99,
+      "discountedPrice": 119.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/Y7P53xgZ/download.png"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "12",
+    "type": "JavaScript",
+    "popularity": true,
+    "courseTitle": "Advanced JavaScript Techniques",
+    "courseLevel": "Advanced",
+    "durationHours": 25,
+    "instructor": "John Doe",
+    "description": "Explore modern JavaScript techniques for building fast, scalable web apps.",
+    "aboutCourse": "This course covers advanced JavaScript features like async programming, closures, and modern ES6+ methods.",
+    "whatYouWillLearn": [
+      "Master modern JavaScript (ES6+)",
+      "Working with async/await and Promises",
+      "DOM manipulation and advanced event handling",
+      "Optimizing JavaScript for performance"
+    ],
+    "requirements": [
+      "Solid understanding of JavaScript basics",
+      "Familiarity with HTML/CSS"
+    ],
+    "targetAudience": [
+      "Developers aiming to master JavaScript",
+      "Frontend developers building dynamic web applications"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 79.99,
+      "discountedPrice": 59.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/gZkDYVJp/download-1.png"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "13",
+    "type": "Tailwind CSS",
+    "popularity": true,
+    "courseTitle": "Mastering Tailwind CSS for Web Design",
+    "courseLevel": "Advanced",
+    "durationHours": 35,
+    "instructor": "James Smith",
+    "description": "Learn advanced Tailwind CSS techniques to create scalable, responsive designs.",
+    "aboutCourse": "This course dives deep into Tailwind CSS, helping you create highly customizable, responsive designs with modern design patterns.",
+    "whatYouWillLearn": [
+      "Building custom Tailwind CSS configurations",
+      "Creating responsive, mobile-first designs",
+      "Optimizing CSS for better performance",
+      "Integrating Tailwind with React and Next.js"
+    ],
+    "requirements": [
+      "Basic knowledge of Tailwind CSS",
+      "Experience with HTML/CSS and React"
+    ],
+    "targetAudience": [
+      "Frontend developers using Tailwind CSS",
+      "Web designers looking to build scalable, responsive web apps"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 139.99,
+      "discountedPrice": 109.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/3YRSPdpt/download.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "14",
+    "type": "Frontend",
+    "popularity": true,
+    "courseTitle": "Modern Frontend Development Techniques",
+    "courseLevel": "Advanced",
+    "durationHours": 30,
+    "instructor": "Mia Clark",
+    "description": "Master frontend development with modern tools like React, Tailwind CSS, and performance optimizations.",
+    "aboutCourse": "Learn how to structure efficient frontend applications, improve performance, and integrate modern design patterns using React, Tailwind CSS, and other tools.",
+    "whatYouWillLearn": [
+      "Component-based architecture in React",
+      "Building responsive, scalable UIs",
+      "Using Tailwind CSS for design systems",
+      "Performance tuning for frontend apps"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Familiarity with React is a plus"
+    ],
+    "targetAudience": [
+      "Experienced frontend developers",
+      "Developers looking to create production-ready web applications"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 119.99,
+      "discountedPrice": 89.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/rGrzWxj2/download-3.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "15",
+    "type": "Frontend",
+    "popularity": true,
+    "courseTitle": "Mastering Frontend Development Techniques",
+    "courseLevel": "Beginner",
+    "durationHours": 30,
+    "instructor": "Mia Clark",
+    "description": "Learn how to build responsive, efficient, and scalable frontend applications with modern frameworks like React and Tailwind CSS.",
+    "aboutCourse": "This course introduces frontend development with a focus on React and Tailwind CSS. You will learn how to create responsive UIs and optimize performance using modern frontend techniques.",
+    "whatYouWillLearn": [
+      "Creating scalable component-based applications with React",
+      "Building responsive UIs using Tailwind CSS",
+      "Performance optimization for frontend development",
+      "Integrating modern frontend tools and practices"
+    ],
+    "requirements": [
+      "Basic knowledge of HTML, CSS, and JavaScript",
+      "Interest in learning React and Tailwind CSS"
+    ],
+    "targetAudience": [
+      "Beginners in frontend development",
+      "Developers looking to learn modern web development practices"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 119.99,
+      "discountedPrice": 89.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/pj8kqT3v/download-1.jpg"
+    },
+    "navigation": ["Overview", "Curriculum", "Instructor", "Reviews"]
+  },
+  {
+    "id": "16",
+    "type": "Frontend",
+    "popularity": true,
+    "courseTitle": "Mastering Frontend Development Techniques",
+    "courseLevel": "Intermediate",
+    "durationHours": 30,
+    "instructor": "Mia Clark",
+    "description": "Learn how to build responsive, efficient, and scalable frontend applications with modern frameworks like React and Tailwind CSS.",
+    "aboutCourse": "This course introduces frontend development with a focus on React and Tailwind CSS. You will learn how to create responsive UIs and optimize performance using modern frontend techniques.",
+    "whatYouWillLearn": [
+      "Creating scalable component-based applications with React",
+      "Building responsive UIs using Tailwind CSS",
+      "Performance optimization for frontend development",
+      "Integrating modern frontend tools and practices"
+    ],
+    "requirements": [
+      "Basic knowledge of HTML, CSS, and JavaScript",
+      "Interest in learning React and Tailwind CSS"
+    ],
+    "targetAudience": [
+      "Beginners in frontend development",
+      "Developers looking to learn modern web development practices"
+    ],
+    "features": {
+      "lifetimeAccess": true,
+      "previewAvailable": true
+    },
+    "pricing": {
+      "regularPrice": 119.99,
+      "discountedPrice": 89.99,
+      "moneyBackGuaranteeDays": 30
+    },
+    "image": {
+      "thumbnailUrl": "https://i.ibb.co.com/pj8kqT3v/download-1.jpg"
+    }
+  }
+]
