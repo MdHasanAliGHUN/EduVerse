@@ -26,7 +26,7 @@ const Banner = () => {
             </NavLink>
             <NavLink
               className="w-40 text-center bg-white px-5 py-2 rounded-md text-black border border-gray-300 hover:bg-gray-100"
-              to="/courses"
+              to="/"
             >
               Contact Us
             </NavLink>
